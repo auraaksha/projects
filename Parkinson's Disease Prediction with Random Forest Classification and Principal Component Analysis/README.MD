@@ -1,1 +1,3 @@
-This project was used as a final exam substitute for a biomedical informatics course. 
+This project was used as a final exam substitute for a biomedical informatics course. The project required each student to find a paper written in English which implements machine learning in the field of biomedics. The paper then used as a guide to write our code regarding the same topic. The final project was submitted on 27 June 2022 and presented during the scheduled final exam day.
+- Paper citation: Gupta, I., Sharma, V., Kaur, S., & Singh, A. K. (2022). PCA-RF: An Efficient Parkinson's Disease Prediction Model based on Random Forest Classification. arXiv preprint arXiv:2203.11287 (https://arxiv.org/abs/2203.11287)
+- The dataset was obtained from UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification)
