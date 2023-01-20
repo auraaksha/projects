@@ -1,1 +1,1 @@
-# This repository contains projects I have worked on during my study as an Information System student
+# This repository contains projects I worked on during my study as an Information System student in Airlangga University
