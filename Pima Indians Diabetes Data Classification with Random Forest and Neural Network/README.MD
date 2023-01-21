@@ -3,7 +3,7 @@ My colleague (Rachmanita Bintarti Putri) and I chose to work with Python and add
 The final project was submitted on 10 January 2022 and presented during the scheduled final exam day.
 
 Resources used for this project:
-- Pima Indians Diebetes Dataset
+- Pima Indians Diabetes Dataset
 - Random Forest : Butwall, M., & Kumar, S. (2015). A data mining approach for the diagnosis of diabetes mellitus using random forest classifier. International Journal of Computer Applications, 120(8).
-- Neural Network : Maryada, K. R. (2018). Simple Neural Network for Diabetes Prediction. https://www.kaggle.com/kredy10/simple-neural-network-for-diabetes-prediction!
+- Neural Network : Maryada, K. R. (2018). Simple Neural Network for Diabetes Prediction. https://www.kaggle.com/kredy10/simple-neural-network-for-diabetes-prediction
 
